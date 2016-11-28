@@ -1515,12 +1515,20 @@
       </origin>
     </title>
     <example num="1">
-      Ich hatte mir Sorgen gemacht, weil ich kein Spanisch sprechen konnte, aber als ich darüber informiert wurde, dass eine Dolmetscherin mich ständig begleiten wird, fiel mir ein Stein vom Herzen.
-      스페인어를 못해서 걱정했지만 통역사가 계속 동행할 것이라는 소식을 들었을 때 마음이 한결 편해졌다.
+      <eng>
+        Ich hatte mir Sorgen gemacht, weil ich kein Spanisch sprechen konnte, aber als ich darüber informiert wurde, dass eine Dolmetscherin mich ständig begleiten wird, fiel mir ein Stein vom Herzen.
+      </eng>
+      <kor>
+        스페인어를 못해서 걱정했지만 통역사가 계속 동행할 것이라는 소식을 들었을 때 마음이 한결 편해졌다.
+      </kor>
     </example>
     <example num="2">
-      Nach erfolgreicher Ausreise aus dem Konfliktgebiet fiel mir ein Stein vom Herzen.
-      분쟁지역을 무사히 떠나고서 한시름 놓을 수 잇었다.
+      <eng>
+        Nach erfolgreicher Ausreise aus dem Konfliktgebiet fiel mir ein Stein vom Herzen.
+      </eng>
+      <kor>
+        분쟁지역을 무사히 떠나고서 한시름 놓을 수 잇었다.
+      </kor>
     </example>
   </idiom>
 
@@ -1535,8 +1543,12 @@
       </origin>
     </title>
     <example>
-      Viele traditionelle Feste sind sang- und klanglos verschwunden.
-      많은 전통 축제들이 조용히 사라졌다.
+      <eng>
+        Viele traditionelle Feste sind sang- und klanglos verschwunden.
+      </eng>
+      <kor>
+        많은 전통 축제들이 조용히 사라졌다.
+      </kor>
     </example>
   </idiom>
 
@@ -1549,10 +1561,14 @@
       </origin>
     </title>
     <example>
-      A: Gott sei dank! Der Doktor meint, dass es nicht so schlimm ist. Aber ich soll aufpassen, dass es nicht schlimmer wird.
-      A: 정말 다행이야. 의사가 그리 심각하지는 않다고 하네. 그런데 (병이) 더 악화되지 않도록 조심하래.
-      B: Schreib dir hinter die Ohren, dass du vorerst nichts trinken darfst.
-      B: 너의 건강을 위해 일단은 술을 마시면 안된다는 것을 꼭 명심해야 해.
+      <eng>
+        A: Gott sei dank! Der Doktor meint, dass es nicht so schlimm ist. Aber ich soll aufpassen, dass es nicht schlimmer wird.
+        B: Schreib dir hinter die Ohren, dass du vorerst nichts trinken darfst.
+      </eng>
+      <kor>
+        A: 정말 다행이야. 의사가 그리 심각하지는 않다고 하네. 그런데 (병이) 더 악화되지 않도록 조심하래.
+        B: 너의 건강을 위해 일단은 술을 마시면 안된다는 것을 꼭 명심해야 해.
+      </kor>
     </example>
   </idiom>
 
@@ -1567,10 +1583,14 @@
       </origin>
     </title>
     <example>
-      A: Nächstes Jahr würde ich am liebsten in der Personalabteilung arbeiten.
-      A: 내년에는 무엇보다 인사과에서 일하고 싶어
-      B: Ohne Vitamin B bekommst du den Posten nie.
-      B: 연줄이 없으면 그 자리 절대 못 따내.
+      <eng>
+        A: Nächstes Jahr würde ich am liebsten in der Personalabteilung arbeiten.
+        B: Ohne Vitamin B bekommst du den Posten nie.
+      </eng>
+      <kor>
+        A: 내년에는 무엇보다 인사과에서 일하고 싶어
+        B: 연줄이 없으면 그 자리 절대 못 따내.
+      </kor>
     </example>
   </idiom>
 
@@ -1584,6 +1604,41 @@
       </origin>
     </title>
     <example>
-      Als ich ihm gesagt habe, dass ich schwanger bin, blieb ihm die Spucke weg.
-      내가 임신했다고 말했을 때 그는 할 말을 잃었다.
+      <eng>
+        Als ich ihm gesagt habe, dass ich schwanger bin, blieb ihm die Spucke weg.
+      </eng>
+      <kor>
+        내가 임신했다고 말했을 때 그는 할 말을 잃었다.
+      </kor>
+    </example>
+  </idiom>
+
+  <idiom ID="079">
+    <title>
+      jm. bleibt die Sprache weg
+      jm. verschlägt es die Sprache
+      할 말을 잃다
+      말문이 막히다
+    </title>
+    <origin>
+      'weggeben'은 '떨어져 있는'이라는 뜻이다. 따라서 누군가에게 언어(말)가 떨어져 있다는 이 표현은 '(놀라서, 어이없어서) 할 말을 잃었다'라는 뜻이다.
+    </origin>
+    <example>
+      <eng>
+        A: Wie war dein Date?
+        B: Wenn ich nur daran denke, bleibt mir die Sprache weg.
+        A: Was passiert?
+        B: Wir haben uns um 12 Uhr vor dem Kino verabredet. Aber ich musste ewig auf sie warten.
+        A: Wann kam sie denn?
+        B: Gar nicht. Sie rief mich schließlich an und sagte, dass sie wegen einer Erkältung nicht kommen könne.
+      </eng>
+      <kor>
+      </kor>
+        A: 데이트 어땠어?
+        B: 그 일을 생각하면 (어이가 없어서) 할 말이 없다.
+        A: 무슨 일이 있었는데?
+        B: 극장 앞에서 2시에 만나기로 약속했어. 난 기다리고 기다렸지.
+        A: 언제 왔는데?
+        B: 아예 오지 않았어. 결국 전화해서 감기 때문에 못 온다고 하더군.
+    </example>
 </German-Idioms>
