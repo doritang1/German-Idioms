@@ -1439,12 +1439,20 @@
       </origin>
     </title>
     <example num="1">
-      Für ihn lege ich auch die Hand ins Feuer.
-      나는 그 사람을 전적으로 신뢰해.
+      <eng>
+        Für ihn lege ich auch die Hand ins Feuer.
+      </eng>
+      <kor>
+        나는 그 사람을 전적으로 신뢰해.
+      </kor>
     </example>
     <example num="2">
-      Für die Genauigkeit dieser Angaben würde ich die Hand nicht ins Feuer legen.
-      이 정보의 정확성을 완전히 믿지는 못하겠어./이 정보가 정확하다는 데에 다 걸지는 못하겠어.
+      <eng>
+        Für die Genauigkeit dieser Angaben würde ich die Hand nicht ins Feuer legen.
+      </eng>
+      <kor>
+        이 정보의 정확성을 완전히 믿지는 못하겠어 / 이 정보가 정확하다는 데에 다 걸지는 못하겠어.
+      </kor>
     </example>
   </idiom>
 
@@ -1457,14 +1465,18 @@
       </origin>
     </title>
     <example>
-      A: Wieso machst du denn so ein langes Gesicht?
-      A: 왜 그리 울상이야?
-      B: Ich habe mein Portemonnaie verloren.
-      B: 지갑을 잃어버렸어.
-      A: Warst du schon im Fundbüro?
-      A: 분실물 보관소에 가봤어?
-      B: Darauf bin ich gar nicht gekommen. Danke für den Tipp.
-      B: 그 생각은 미처 못했네. 아이디어 고마워.
+      <eng>
+        A: Wieso machst du denn so ein langes Gesicht?
+        B: Ich habe mein Portemonnaie verloren.
+        A: Warst du schon im Fundbüro?
+        B: Darauf bin ich gar nicht gekommen. Danke für den Tipp.
+      </eng>
+      <kor>
+        A: 왜 그리 울상이야?
+        B: 지갑을 잃어버렸어.
+        A: 분실물 보관소에 가봤어?
+        B: 그 생각은 미처 못했네. 아이디어 고마워.
+      </kor>
     </example>
 
     <etc>
@@ -1483,12 +1495,20 @@
       </origin>
     </title>
     <example num="1">
-      Wegen der steigenden Ölpreise wird Fliegen jetzt teurer. Die Fluggäste müssen jetzt noch tiefer in die Tasche greifen.
-      기름값이 오름에 따라 비행기 타는 것이 이제 더 비싸진다. 항공기를 이용하는 고객들은 이제 더 많은 돈을 지불해야 한다.
+      <eng>
+        Wegen der steigenden Ölpreise wird Fliegen jetzt teurer. Die Fluggäste müssen jetzt noch tiefer in die Tasche greifen.
+      </eng>
+      <kor>
+        기름값이 오름에 따라 비행기 타는 것이 이제 더 비싸진다. 항공기를 이용하는 고객들은 이제 더 많은 돈을 지불해야 한다.
+      </kor>
     </example>
     <example num="2">
-      Für das Mensa-Essen müssen die Studenten jetzt tiefer in die Tasche greifen.
-      학생들은 이제 학생식당에서 밥을 먹으려면 더 많은 돈을 지불해야 한다.
+      <eng>
+        Für das Mensa-Essen müssen die Studenten jetzt tiefer in die Tasche greifen.
+      </eng>
+      <kor>
+        학생들은 이제 학생식당에서 밥을 먹으려면 더 많은 돈을 지불해야 한다.
+      </kor>
     </example>
   </idiom>
 
@@ -1501,8 +1521,12 @@
       </origin>
     </title>
     <example>
-      Wichtig ist, dass man seine Fehler erkennt und auch die Verantwortung übernimmt. Es bringt nichts, einen anderen zum Sündenbock zu machen.
-      자신의 잘못을 자각하고 책임을 지는 것이 중요하다. 다른 사람에게 책임을 전가하는 것은 소용없다.
+      <eng>
+        Wichtig ist, dass man seine Fehler erkennt und auch die Verantwortung übernimmt. Es bringt nichts, einen anderen zum Sündenbock zu machen.
+      </eng>
+      <kor>
+        자신의 잘못을 자각하고 책임을 지는 것이 중요하다. 다른 사람에게 책임을 전가하는 것은 소용없다.
+      </kor>
     </example>
   </idiom>
 
@@ -1633,12 +1657,34 @@
         B: Gar nicht. Sie rief mich schließlich an und sagte, dass sie wegen einer Erkältung nicht kommen könne.
       </eng>
       <kor>
-      </kor>
         A: 데이트 어땠어?
         B: 그 일을 생각하면 (어이가 없어서) 할 말이 없다.
         A: 무슨 일이 있었는데?
         B: 극장 앞에서 2시에 만나기로 약속했어. 난 기다리고 기다렸지.
         A: 언제 왔는데?
         B: 아예 오지 않았어. 결국 전화해서 감기 때문에 못 온다고 하더군.
+      </kor>
     </example>
+  </idiom>
+
+  <idiom ID="080">
+    <title>
+      sauer sein
+      화났다
+      기분 상했다
+      <origin>
+        'sauer'는 '신맛이 나는'이라는 뜻인데 독일어에서는 'süß(달콤한)'의 반의어가 'bitter(쓰다)'가 아니라 'sauer'다. 기분 좋은 달콤함의 반대는 기분 나쁜 시큼함인 것이다.
+      </origin>
+    </title>
+    <example>
+      <eng>
+        A: Was ist los mit dir? Bist du sauer auf mich?
+        B: Nein, warum sollte ich sauer sein?
+      </eng>
+      <kor>
+        A: 무슨 일이야? 나한테 화난 거야?
+        B: 내가 화날 게 뭐가 있어?
+      </kor>
+    </example>
+  </idiom>
 </German-Idioms>
