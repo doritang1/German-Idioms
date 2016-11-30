@@ -1706,4 +1706,28 @@
       </kor>
     </example>
   </idiom>
+
+  <idiom ID="082">
+    <title>
+      Theater machen
+      과장하다
+      오버하다
+      <origin>
+        'das Theater'는 '연기' 또는 '(연극을 위한)극장'을 나타내는 명사이다. 우리말의 '연기하지 마'라는 표현과 동일한 표현이 'Mach doch keit Theater'다. 어떤 일에 대해 과장된 반응을 보일 경우 쓰는 말이다. 영화를 보는 극장은 'das Kino'다.
+      </origin>
+    </title>
+    <example>
+      <eng>
+        A: Au! Das tut ja weh.
+        B: Mach doch keit Theater!
+      </eng>
+      <kor>
+        A: 아야. 정말 아파.
+        B: 오버하지 마.
+      </kor>
+    </example>
+    <etc>
+      Das ist doch alles Theater. 전부 연기잖아/전부 쇼잖아.
+    </etc>
+  </idiom>
 </German-Idioms>
