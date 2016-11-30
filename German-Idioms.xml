@@ -1687,4 +1687,23 @@
       </kor>
     </example>
   </idiom>
+
+  <idiom ID="081">
+    <title>
+      den Gürtel enger schnallen
+      허리띠를 졸라매다
+      검소한 생활을 하다
+      <origin>
+        우리말의 '허리띠를 졸라매다'와 정확하게 일치하는 독일어 표현이다. 'Gürtel'은 때를 나타내는 단어로 주로 허리띠를 지칭한다. 'Gurt' 또한 띠를 나타내는 단어로 'der Sicherheitsgurt'는 '안전띠'라는 뜻이다.
+      </origin>
+    </title>
+    <example>
+      <eng>
+        In diesen wirtschaftlich schwierigen Zeiten müssen alle den Gürtel enger schnallen.
+      </eng>
+      <kor>
+        경제적으로 어려운 시기에는 모두들 허리띠를 졸라매야 한다.
+      </kor>
+    </example>
+  </idiom>
 </German-Idioms>
