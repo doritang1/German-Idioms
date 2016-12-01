@@ -1341,12 +1341,16 @@
       </origin>
     </title>
     <example>
-      A: Wie sieht es morgen mit dem Wetter aus? Wenn es regnet, ist es mit dem Ausflug wohl Essig.
-      A: 내일 날씨 어떻대? 비가 오면 소풍은 이제 물 건너가겠네.
-      B: Nach der Wettervoraussage soll es morgen keinen Regen geben.
-      B: 기상예보에 따르면 내일 비는 안 내린다는데.
-      A: Hoffen wir, dass es so bleibt.
-      A: 그 예보가 맞기를 바라야지.
+      <eng>
+        A: Wie sieht es morgen mit dem Wetter aus? Wenn es regnet, ist es mit dem Ausflug wohl Essig.
+        B: Nach der Wettervoraussage soll es morgen keinen Regen geben.
+        A: Hoffen wir, dass es so bleibt.
+      </eng>
+      <kor>
+        A: 내일 날씨 어떻대? 비가 오면 소풍은 이제 물 건너가겠네.
+        B: 기상예보에 따르면 내일 비는 안 내린다는데.
+        A: 그 예보가 맞기를 바라야지.
+      </kor>
     </example>
   </idiom>
 
@@ -1360,14 +1364,18 @@
       </origin>
     </title>
     <example>
-      A: Wie war's in Australien?
-      A: 호주 어땠어?
-      B: Es hat sehr viel Sapß gemacht. Wir haben viele interessante Sachen unternommen.
-      B: 엄청 재미있었지. 재미있는 거 많이 했어.
-      A: Habt ihr auch Sky-Diving gemacht?
-      A: 스카이다이빙도 해봤어?
-      B: Das wollte ich unbedingt, aber im letzten Augenblick bekam ich kalte Füße und konnte nicht aus dem Flugzeug springen.
-      B: 꼭 하려고 했는데 마지막 순간에 너무 무서워서 비행기에서 뛰어내릴 수 없었어.
+      <eng>
+        A: Wie war's in Australien?
+        B: Es hat sehr viel Sapß gemacht. Wir haben viele interessante Sachen unternommen.
+        A: Habt ihr auch Sky-Diving gemacht?
+        B: Das wollte ich unbedingt, aber im letzten Augenblick bekam ich kalte Füße und konnte nicht aus dem Flugzeug springen.
+      </eng>
+      <kor>
+        A: 호주 어땠어?
+        B: 엄청 재미있었지. 재미있는 거 많이 했어.
+        A: 스카이다이빙도 해봤어?
+        B: 꼭 하려고 했는데 마지막 순간에 너무 무서워서 비행기에서 뛰어내릴 수 없었어.
+      </kor>
     </example>
   </idiom>
 
@@ -1380,12 +1388,20 @@
       </origin>
     </title>
     <example num="1">
-    Das Smart-Phone ist der letzte Schrei.
-    스마트폰이 요즘 유행이다.
+      <eng>
+        Das Smart-Phone ist der letzte Schrei.
+      </eng>
+      <kor>
+        스마트폰이 요즘 유행이다.
+      </kor>
     </example>
     <example num="2">
-      Produkte aus der Telekomunikationsbranche, die gestern der letzte Schrei waren, können morgen schon im Müll landen.
-      어제까지 정보통신 분야의 최고의 히트 상품이었던 물건도 내일이면 쓸모 없는 물건으로 전락할 수 있다.
+      <eng>
+        Produkte aus der Telekomunikationsbranche, die gestern der letzte Schrei waren, können morgen schon im Müll landen.
+      </eng>
+      <kor>
+        어제까지 정보통신 분야의 최고의 히트 상품이었던 물건도 내일이면 쓸모 없는 물건으로 전락할 수 있다.
+      </kor>
     </example>
   </idiom>
 
@@ -1400,10 +1416,14 @@
       </origin>
     </title>
     <example>
-      A: Du hast keinen Grund, den Kopf hängen zu lassen. Kopf hoch! Du warst heute klasse.
-      A: 그렇게 기운 빠져 있을 이유 하나도 없어. 너 오늘 정말 멋졌어.
-      B: Ich weiß, dass ich heute Mist gebaut habe. Du braucht nicht mich nicht zu trösten.
-      B: 내가 오늘 일을 다 망쳐버린 거 알아. 날 위로해주지 않아도 돼.
+      <eng>
+        A: Du hast keinen Grund, den Kopf hängen zu lassen. Kopf hoch! Du warst heute klasse.
+        B: Ich weiß, dass ich heute Mist gebaut habe. Du braucht nicht mich nicht zu trösten.
+      </eng>
+      <kor>
+        A: 그렇게 기운 빠져 있을 이유 하나도 없어. 너 오늘 정말 멋졌어.
+        B: 내가 오늘 일을 다 망쳐버린 거 알아. 날 위로해주지 않아도 돼.
+      </kor>
     </example>
   </idiom>
 
@@ -1419,12 +1439,20 @@
       </origin>
     </title>
     <example num="1">
-      Die Wünsche der Kunden sind das A und O all unserer Tätigkeiten.
-      고객의 요구가 우리 일의 시작점이자 목표다.
+      <eng>
+        Die Wünsche der Kunden sind das A und O all unserer Tätigkeiten.
+      </eng>
+      <kor>
+        고객의 요구가 우리 일의 시작점이자 목표다.
+      </kor>
     </example>
     <example num="2">
-      Eine globale Strategie ist das A und O für Firmen, die Online-Spiele entwickeln.
-      온라인게임을 개발하는 업체에게 있어서 글로벌 전략은 필수다.
+      <eng>
+        Eine globale Strategie ist das A und O für Firmen, die Online-Spiele entwickeln.
+      </eng>
+      <kor>
+        온라인게임을 개발하는 업체에게 있어서 글로벌 전략은 필수다.
+      </kor>
     </example>
   </idiom>
 
@@ -1770,6 +1798,27 @@
       <kor>
         A: 한국의 어머니들이 다시 모유 수유를 하기 시작했대.
         B: 돈이 절약될 뿐만 아니라 건강에도 좋다고 하더군.
+      </kor>
+    </example>
+  </idiom>
+
+  <idiom ID="085">
+    <title>
+      weg vom Fenster sein
+      더 이상 주목을 받지 못하다
+      위치 또는 직책을 잃다
+      <origin>
+        창문 밖으로 보면 다른 사람들이 무엇을 하는지 지켜볼 수 있다. 창밖의 풍경 즉, 그 동안의 관찰 대상이 사라진다는 것은 그것이 더 이상 주목을 받지 못한다는 것을 의미한다. 특히 많은 사람들의 관심을 받는 위치나 직책에 있는 사람이 해고 등을 당할 때도 종종 쓰는 표현이다.
+      </origin>
+    </title>
+    <example>
+      <eng>
+        A: Wenn das Team dieses Spiel verliert, ist der Trainer bestimmt bald weg vom Fenster.
+        B: Das glaube ich aber auch.
+      </eng>
+      <kor>
+        A: 이번 경기에서 패하면 감독이 분명 해고당할 거야.
+        B: 내 생각에도 그래.
       </kor>
     </example>
   </idiom>
