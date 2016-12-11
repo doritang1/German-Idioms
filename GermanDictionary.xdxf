@@ -2163,10 +2163,54 @@
             B: 완전히 멋졌어. 청중들이 좋아서 날뛰었지.
           </ex_tran>
         </ex>
+        <etm>
+          이 표현을 보면 '집 밖에 있다'로 해석될 것 같지만 'sich aufregen' 또는 'außer sich sein'과 같은 뜻으로, '흥분하다', '이성을 잃다'라는 뜻이다. 'Häuschen(Haus의 축약형)'은 집을 나타내는데 아마도 사람의 정신이 머물러 있는 곳을 집(머리)이라고 생각했던 것 같다. 즉 정신이 집 밖으로 나갔다는 데서 온 표현일 것으로 추정된다. 단, 긍정적인 의미로 주로 쓰인다. 다시 말해, '너무 좋아서 이성을 잃는다'라는 느낌을 표현한다.
+        </etm>
       </def>
-      <etm>
-        이 표현을 보면 '집 밖에 있다'로 해석될 것 같지만 'sich aufregen' 또는 'außer sich sein'과 같은 뜻으로, '흥분하다', '이성을 잃다'라는 뜻이다. 'Häuschen(Haus의 축약형)'은 집을 나타내는데 아마도 사람의 정신이 머물러 있는 곳을 집(머리)이라고 생각했던 것 같다. 즉 정신이 집 밖으로 나갔다는 데서 온 표현일 것으로 추정된다. 단, 긍정적인 의미로 주로 쓰인다. 다시 말해, '너무 좋아서 이성을 잃는다'라는 느낌을 표현한다.
-      </etm>
     </ar>
+
+    <ar>
+      <k>den Pantoffel schwingen</k>
+      <def>
+        <deftext>남편을 꼼짝 못하게 하다, 부인이 칼자루를 쥐고 있다</deftext>
+        <ex>
+          <ex_orig>
+            A: Wieso macht Herr Schweizer immer Überstunden? Hat er so viel zu tun?
+            B: Nein nicht deswegen. Seine Frau soll zu Hause den Pantoffel schwingen.
+          </ex_orig>
+          <ex_tran>
+            A: 슈바이처씨는 왜 항상 초과 근무를 하지? 할 일이 그렇게 많나?
+            B: 그런건 아니고 부인이 집에서 남편을 휘어잡고 있대요.
+          </ex_tran>
+        </ex>
+        <etm>
+          'Pantoffel'은 과거 주부들이 집안에서 신고 있던 (나무)슬리퍼다. 슬리퍼를 휘두른다는 것은 부인이 남편을 휘어잡고 있다는 뜻이다.
+        </etm>
+        <syn>
+          unter dem Pantoffel stehen 부인에게 꼼짝 못하다
+        </syn>
+      </def>
+    </ar>
+
+    <ar>
+      <k>in den sauren Apfel beißen</k>
+      <def>
+        <deftext>울며 겨자 먹기로 하다, 총대를 메다</deftext>
+        <ex>
+          <ex_orig>
+            A: Ich weiß, dass Sie alle Weihnachten mit Ihren Familien verbringen wollen. Aber leider brauche ich noch einen Freiwilligen, der während der Feiertage mit mir im Büro arbeiten könnte.
+            B: Ich werde wohl in den sauren Apfel beißen. Zu der Zeit ist meine Frau sowieso im Ausland.
+          </ex_orig>
+          <ex_tran>
+            A: 크리스마스 때 가족과 같이 보내고 싶어하시는 것 다 압니다. 하지만 안타깝게도 크리스마스 기간 동안 저와 함께 사무실에서 일할 자원인력 1명이 필요합니다.
+            B: 제가 총대를 메기로 하죠. 어차피 그 기간에 제 아내는 해외에 있을 것입니다.
+          </ex_tran>
+        </ex>
+        <etm>
+          사과는 달아야 제맛이다. '시큼한 사과를 깨물다'라는 것은 어쩔 수 없이 건강 등을 생각해서 사고를 먹어야 한다는 데서 유래한 표현인 것으로 보인다. 우리말의 '울며 겨자 먹기'와 거의 일맥상통하는 표현으로 누군가는 해야 하기 때문에 총대를 멘다는 뜻으로도 쓰이고 있다.
+        </etm>
+      </def>
+    </ar>
+
   </lexicon>
 </xdxf>
