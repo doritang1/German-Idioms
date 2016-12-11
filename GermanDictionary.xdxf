@@ -2212,5 +2212,25 @@
       </def>
     </ar>
 
+    <ar>
+      <def>
+        <deftext>무엇을 쉽게 해내다</deftext>
+        <ex>
+          <ex_orig>
+            A: Wie es so aussieht hat Ihr neues Album die Rockfans und die ganze Musikwelt begeistert. Allein in Deutschland sind 3 Millionen CDs innerhalb einer Woche nach Erscheinen verkauft worden. Was sagen Sie dazu?
+            B: Das neue Album ist nicht einfach aus dem Ärmel geschüttelt worden wie viele heutzutage. Wir haben ganz schön lange an diesem Album gearbeitet und wir waren fest davon überzeugt, dass es diesmal bei den Fans gut ankommen wird. Aber mit einem so großen Erfolg haben wir nicht gerechnet.
+          </ex_orig>
+          <ex_tran>
+            A: 록 음악 팬들과 전 음악계가 이번 음악에 감명을 받은 것 같습니다. 발매 일주일만에 300만 장이 팔렸는데요. 이에 대해 한 말씀 하신다면요?
+            B: 인 앨범은 오늘날 음악 시장에 나오는 많은 앨범들처럼 그냥 뚝딱하고 만들어진 것이 아닙니다. 오랫동안 함께 작업을 했고 분명 팬들에게 좋은 반응을 얻을 것이라 확신했습니다만, 이 정도의 성공은 예상치 못했습니다.
+          </ex_tran>
+        </ex>
+        <etm>
+          팔을 흔들면 무언가 팔(옷) 밖으로 나오는 모양을 나타내는 표현이다. 중세를 배경으로 하는 영화나 연극을 보면 상의(팔 부분)에서 전갈이나 편지 또는 돈을 꺼내는 장면을 종종 볼 수 있다. 특별히 힘을 들이지 않고 팔을 툭툭 털었을 뿐인데 이런저런 물건들이 쏟아져 나온다는 데서 유래한 표현으로, 힘 들이지 않고 즉흥적으로 무엇을 꺼낸다는 의미로 쓰인다.
+          마술사들의 팔에서 장미나 비둘기가 뚝딱 나오는 장면을 생각하면 잘 이해할 수 있다.
+        </etm>
+      </def>
+    </ar>
+
   </lexicon>
 </xdxf>
