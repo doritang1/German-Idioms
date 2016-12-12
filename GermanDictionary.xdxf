@@ -2233,5 +2233,29 @@
       </def>
     </ar>
 
+    <ar>
+      <k>bei jm. an der falschen Adresse sein</k>
+      <def>
+        <deftext>번지수를 잘못 찾아오다, 사람 잘못 만났어, (나한테는) 안 통해</deftext>
+        <ex>
+          <ex_orig>
+            A: Ich hätte gerne zwei Eintrittskarten für Stunden.
+            B: Sie wollen eine Studentenermäßigung? Dann zeigen Sie mal Ihren Ausweis.
+            A: Den habe ich leider nicht dabei.
+            B: Tut mir leid. Dann sind Sie bei mir an der falschen Adresse. Da kann ja jeder kommen!
+          </ex_orig>
+          <ex_tran>
+            A: 학생 입장권 2장 주세요
+            B: 학생할인 받으시려고요? 그렇다면 신분증(학생증) 제시하셔야 합니다.
+            A: 안가져왔는데요.
+            B: 안타깝네요. 그렇다면 저한테는 어림없습니다. 그럼 누구나 다 학생할인 받게요.
+          </ex_tran>
+        </ex>
+        <etm>
+          우리말의 '번지수를 잘못 찾다'라는 표현과 유사한 표현으로 '여기가 아닙니다'라는 의미와 함께 '사람 잘못 보셨어요'라는 의미로도 쓰인다.
+        </etm>
+      </def>
+    </ar>
+
   </lexicon>
 </xdxf>
