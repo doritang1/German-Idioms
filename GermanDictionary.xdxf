@@ -2257,5 +2257,23 @@
       </def>
     </ar>
 
+    <ar>
+      <k>die Hölle ist los</k>
+      <def>
+        <deftext>난장판이다, 아수라장이다; 정신없다, 열광의 도가니다</deftext>
+        <ex>
+          <ex_orig>
+            Ich habe das Spiel gegen Italien live im Stadion erlebt. Nachdem Ahn in der Extraspielzeit eine Kopfball zu einem Tor verwandelte, war im Stadion die Hölle los.
+          </ex_orig>
+          <ex_tran>
+            이탈리아전을 경기장에서 직접 관랍했어. 안(정환)이 연장전에 헤딩으로 골을 넣었을 대 경기장은 열광의 도가니가 되었지.
+          </ex_tran>
+        </ex>
+        <etm>
+          'Hölle'는 지옥을 나타내는 명사이다. 비록 '난장판', '아수라장'으로도 해석하지만, '열광의 도가니'와 같이 긍정적인 의미로 쓰이는 경우도 있다.
+        </etm>
+      </def>
+    </ar>
+
   </lexicon>
 </xdxf>
