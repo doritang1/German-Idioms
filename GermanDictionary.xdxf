@@ -2275,5 +2275,29 @@
       </def>
     </ar>
 
+    <ar>
+      <k>Hut ab vor jm.</k>
+      <def>
+        <deftext>~이 존경스럽다, 머리가 수그러진다</deftext>
+        <ex>
+          <ex_orig>
+            A: Herzlichen Glückwunsch zum Debüt!
+            B: Wie war ich heute auf der Bühne?
+            A: Du alleine hast gegläzt. Hut ab vor deiner Leistung!
+            B: Du willst mich wohl auf den Arm nehmen!
+          </ex_orig>
+          <ex_tran>
+            A: 데뷔 축하해!
+            B: 나 오늘 무대 위에서 어땠어?
+            A: 무대 위에서 홀로 빛나더라. 네 연기에 존경을 표한다.
+            B: 나 놀리는 거지?
+          </ex_tran>
+        </ex>
+        <etm>
+          과거 누군가에게 인사를 하거나 존경을 표하고자 할 때 모자(der Hut: 중절모)를 벗어서 인사를 한 데서 온 표현으로 '~이 존경스럽다', '대단하다'라는 의미로 쓰는데, 반어적으로 쓰는 경우도 있다. 야구모자처럼 챙이 달린 모자는 'die Mütze'라고 한다.
+        </etm>
+      </def>
+    </ar>
+
   </lexicon>
 </xdxf>
