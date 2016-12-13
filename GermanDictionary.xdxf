@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE xdxf SYSTEM "https://raw.github.com/soshial/xdxf_makedict/master/format_standard/xdxf_strict.dtd">
-<xdxf lang_from="ENG" lang_to="ENG" format="logical" revision="033">
+<xdxf lang_from="ENG" lang_to="ENG" format="visual" revision="033">
   <meta_info>
       <title>German Dictionary</title>
       <full_title>SKU German Dictionary</full_title>
@@ -2315,6 +2315,28 @@
         </ex>
         <etm>
           이 표현은 'Das ist wie das andere'라는 뜻으로, 이것이나 저것이나 똑같다는 뜻을 지니고 있다. 17세기에 생긴 표현으로 당시에는 상의와 하의를 같은 천으로 만들었다는 뜻이었다. 보기에는 다르지만 같은 천으로 만들어졌다, 즉 '마찬가지다'라는 뜻이다.
+        </etm>
+      </def>
+    </ar>
+
+    <ar>
+      <k>den Löffel abgeben</k>
+      <def>
+        <deftext>사망하다</deftext>
+        <ex>
+          <ex_orig>
+            A: Wohnt die nervige alte Oma immer noch neben dir?
+            B: Nee, die hat letztes Jahr ihren Löffel abgegeben.
+          </ex_orig>
+          <ex_tran>
+            A: 아직도 그 성가신 할머니 너희 집 옆에 사니?
+            B: 아니, 작년에 돌아가셨어. (거친 표현으로)
+          </ex_tran>
+        </ex>
+        <etm>
+          죽으면 더 이상 먹지 못하기 때문에 '숟가락을 반납'해야 한다. 그렇다면 왜 하필 포크나 나이프가 아니고 숟가락인가? 과거 유목민이나 평민들은 숟가락을 항상 가지고 다녔는데 나이프의 경우는 무기가 될 수 있기 때문에 들고 다닐 수 없었고 포크는 근대에 들어서 사용이 활성화되었다. 또한 평민들이 주로 먹는 음식이 숟가락이 필요한 국 또는 죽 종류였기 때문이기도 하다.
+          숟가락은 그 사람을 나타내는 상징으로 쓰이기도 했다. 은수저가 식탁에서 떨어지면 친척 중에 누군가 곧 죽는다는 미신도 있다. 우리말에서도 사람이 늘었다는 의미의 '숟가락이 늘었다'라는 표현이 있듯이 숟가락이 사람을 나타내는 상징으로 쓰이기도 한다.
+          또 독일 흑림(Schwarzwald) 지역에서는 숟가락을 개인 소유물로 보고 사람이 죽으면 숟가락을 물려주지 않고 집 벽에 걸어놓는 풍습이 있었다고 한다.
         </etm>
       </def>
     </ar>
