@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE xdxf SYSTEM "https://raw.github.com/soshial/xdxf_makedict/master/format_standard/xdxf_strict.dtd">
-<xdxf lang_from="ENG" lang_to="ENG" format="visual" revision="033">
+<xdxf lang_from="ENG" lang_to="ENG" format="logical" revision="033">
   <meta_info>
       <title>German Dictionary</title>
       <full_title>SKU German Dictionary</full_title>
@@ -2338,6 +2338,40 @@
           숟가락은 그 사람을 나타내는 상징으로 쓰이기도 했다. 은수저가 식탁에서 떨어지면 친척 중에 누군가 곧 죽는다는 미신도 있다. 우리말에서도 사람이 늘었다는 의미의 '숟가락이 늘었다'라는 표현이 있듯이 숟가락이 사람을 나타내는 상징으로 쓰이기도 한다.
           또 독일 흑림(Schwarzwald) 지역에서는 숟가락을 개인 소유물로 보고 사람이 죽으면 숟가락을 물려주지 않고 집 벽에 걸어놓는 풍습이 있었다고 한다.
         </etm>
+      </def>
+    </ar>
+
+    <ar>
+      <k>dalli, dalli</k>
+      <def>
+        <deftext>빨리 빨리, 어서 어서</deftext>
+        <ex>
+          <ex_orig>
+            A: Was soll ich anziehen, das rote Kleid oder das grüne?
+            B: Egal. Du siehst sowieso hübsch aus.
+            A: Ok. Dann trage ich einfach das rote Kleid.
+            B: Welche Schuhe würden dann zum roten Kleid passen?
+            A: Die neuen sind doch schön, aber wann bist du denn endlich fertig?
+            B: Ja, ja, ja, ich komme schon.
+            A: Dalli, Dalli, Oskar wartet schon eine Ewigkeit auf uns.
+          </ex_orig>
+          <ex_tran>
+            A: 붉은색 아니면 연두색 드레스 중 어떤 거 입을까?
+            B: 상관없어. 이래도 저래도 예뻐.
+            A: 알았어. 그렇다면 그냥 붉은색으로 입지.
+            B: 붉은색 옷에는 어떤 신발이 어울릴까?
+            A: 새 신발이 예쁘긴 한데 너 도대체 언제 준비가 끝나니?
+            B: 알았어, 알았어. 이제 가잖아.
+            A: 어서 어서 와. 오스카(상)가 한참 기다리고 있잖아.
+          </ex_tran>
+        </ex>
+        <etm>
+          독일은 동쪽으로 폴란드와 국경을 접하고 있다. 이 표현은 폴란드어로 '전진'이라는 단어 'dalej (vorwärts)'에서 온 표현으로 무엇인가를 빨리 하자거나 하라고 얘기할 때 'dalli, dalli'라고 말한다. 우리말의 '빨리빨리'와 어감이 비슷해서 기억하기 쉬운 표현이다.
+        </etm>
+        <etc>
+          'die Ewigkeit'는 '영원함'이라는 뜻이다. 지루하게 장시간을 기다리거나 어떤 일이 장시간 걸릴 경우 비꼬는 투로 'Ich warte eine Ewigkeit.', 'Das dauert eine Ewigkeit.'라고 한다.
+          형용사 형태인 'ewig'를 통해서도 같은 표현을 할 수 있다. 'Ich warte schon ewig.', 'Das dauert ja ewig.'
+        </etc>
       </def>
     </ar>
 
